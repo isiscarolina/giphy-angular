@@ -1,0 +1,13 @@
+.buscar{
+    max-width: 600px;
+    margin: 30px;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.buscar input {
+    width: 100%;
+    padding: 8px 16px;
+    margin-top: 20px;
+}
